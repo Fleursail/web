@@ -12,7 +12,7 @@ st.set_page_config(
 
 # --- 2. 페이지 타이틀 ---
 st.title("발디의 수학 교실 🔮")
-st.subheader("수학 문재를 풀어보고 선생님한테서 도망쳐요!")
+st.subheader("수학 문제를 풀어보고 선생님한테서 도망쳐요!")
 st.markdown("---") # 구분선
 
 # --- 3. 모든 커스텀 CSS ---
